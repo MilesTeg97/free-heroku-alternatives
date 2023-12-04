@@ -13,7 +13,7 @@ This comparison describes only free tiers of these services.
 | fl0.com      | No     | No  |                | 256MB | 1GB?   | Yes  | 10GB          | Yes | Yes |
 | Adaptable.io | Yes*   | No  | ~25,000 req/mo | 256MB | 1GB    | Yes* | 5GB           | No* | Yes |
 | Cyclic.sh    | No     | No  | 10,000 req/mo  | 1GB   | 512MB* | Yes* |               | No  | Yes |
-| Zeabur.com   | No     | No  | $5             | 512MB | 1GB    | Yes  |               | Yes | Yes |
+| Zeabur.com   | Yes     | No  | $5             | 512MB | 1GB    | Yes  |               | Yes | Yes |
 | Koyeb.com    | No     | No  |                | 256MB | 2GB    | Yes  | 100GB         | Yes | Yes |
 
 \* See information below
