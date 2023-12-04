@@ -10,7 +10,7 @@ This comparison describes only free tiers of these services.
 | Railway.app  | No     | Yes | $5*            | 512MB | 1GB    |      | $0.10/GB      | Yes | Yes |
 | render.com   | 15 min | No  | 750 hours      | 512MB |        | No   | 100GB         | Yes | Yes |
 | glitch.com   | 5 min  | No  | 1000 hours     | 512MB | 200MB* | Yes  | 4000 req/hour | No  |     | 
-| fl0.com      | No     | No  |                | 256MB | 1GB?   | Yes  | 10GB          | Yes | Yes |
+| fl0.com      | Yes    | No  |                | 256MB | 1GB?   | Yes  | 10GB          | Yes | Yes |
 | Adaptable.io | Yes*   | No  | ~25,000 req/mo | 256MB | 1GB    | Yes* | 5GB           | No* | Yes |
 | Cyclic.sh    | No     | No  | 10,000 req/mo  | 1GB   | 512MB* | Yes* |               | No  | Yes |
 | Zeabur.com   | No     | No  | $5             | 512MB | 1GB    | Yes  |               | Yes | Yes |
@@ -143,6 +143,7 @@ This comparison describes only free tiers of these services.
   * No information about database limitations (probably the same as [neon has](https://neon.tech/docs/introduction/free-tier)).
   * Database Compute: Shared
   * Database Storage: 3GB
+* Limits: App "will be automatically **paused** after 24 hours of inactivity."
 
 <details>
 <summary>os.cpus()</summary>
